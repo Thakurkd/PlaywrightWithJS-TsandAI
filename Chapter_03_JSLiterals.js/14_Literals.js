@@ -1,0 +1,12 @@
+let count =42;
+let negCount =-42;
+let zeroCount =0;
+let h= 0xFF;
+console.log(count);
+console.log(negCount);
+console.log(zeroCount);
+console.log(h);
+console.log(typeof count);
+console.log(typeof negCount);
+console.log(typeof zeroCount);
+console.log(typeof h);

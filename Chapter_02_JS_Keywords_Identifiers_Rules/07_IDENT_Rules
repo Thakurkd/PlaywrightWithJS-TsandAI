@@ -1,0 +1,26 @@
+//simple
+
+var name = "kuldeep";
+var firstName = "kd";
+var This_is_myName_with_large_Length="kuldeepSingh";
+
+//Naming conventions->1(Camel Case)
+
+var myName ="kuldeep";
+var firstName ="kd";
+//2 Pascal Case
+var MyName ="kuldeep";
+var FirstName = "kd";
+//3 Snake Case
+var my_name ="kuldeep";
+var first_name="kd";
+var total_age="30";
+let is_data_valid=true;
+//SCREAMING SNAKE CASE
+var MY_Name ="kuldeep";
+var First_Name="kd";
+var Last_Name="singh";
+const Last_date="2023-12-31";
+//Hungarian Notation    
+let strName="kuldeep";
+const strFirstName="kd";
